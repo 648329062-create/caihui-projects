@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "frappe/erpnext",
+    "commit": "d607837e80fa731e2b3b285c9873f3f1185653bc",
+    "source": "https://github.com/frappe/erpnext",
+    "archive": "frappe--erpnext.tar.xz",
+    "bytes": 10371592
+  },
+  {
+    "repository": "InvoicePlane/InvoicePlane",
+    "commit": "cbc3df6dfabf7156893194d810754eb429a335a9",
+    "source": "https://github.com/InvoicePlane/InvoicePlane",
+    "archive": "InvoicePlane--InvoicePlane.tar.xz",
+    "bytes": 799048
+  }
+]
